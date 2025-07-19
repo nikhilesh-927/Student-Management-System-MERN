@@ -42,10 +42,10 @@ We'd like to express our gratitude to the open-source community and the contribu
 ---
 
 For more detailed setup instructions and information about using the project, refer to the project's Wiki or Documentation section.
-![1](https://github.com/SarangaSiriwardhana9/Student-Management-System-Using-MERN-STACK/assets/99233703/24fcd245-1f3b-4bea-ba78-8c0beb148237)
-![3](https://github.com/SarangaSiriwardhana9/Student-Management-System-Using-MERN-STACK/assets/99233703/858cc4dd-dd30-4a02-8cdd-cdfddd050010)
-![3](https://github.com/SarangaSiriwardhana9/Student-Management-System-Using-MERN-STACK/assets/99233703/61d01603-1aed-4616-b72b-4ed12d50431a)
-![4](https://github.com/SarangaSiriwardhana9/Student-Management-System-Using-MERN-STACK/assets/99233703/ce3263a4-1b9d-4ae9-8837-7cbcfff5a591)
+![1](https://github.com/nikhilesh-927/Student-Management-System-MERN/blob/main/assets/first-ss-image.png)
+![2](https://github.com/nikhilesh-927/Student-Management-System-MERN/blob/main/assets/second-image.png)
+![3](https://github.com/nikhilesh-927/Student-Management-System-MERN/blob/main/assets/third-image.png)
+![4](https://github.com/nikhilesh-927/Student-Management-System-MERN/blob/main/assets/fourth-image.png)
 
 
 
