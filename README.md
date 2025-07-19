@@ -35,10 +35,6 @@ If you're interested in contributing to this project, feel free to:
 - Make your changes and submit a pull request.
 - Discuss ideas or improvements in the Issues section.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 We'd like to express our gratitude to the open-source community and the contributors who helped shape this project.
